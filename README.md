@@ -1,11 +1,11 @@
-# 傅嵘 / Rong Fu 👋
+# 付蓉 / Rong Fu 👋
 
 &gt; Ph.D. (Tsinghua) · Compiler & AI System Researcher  
 &gt; "Make AIGC run faster, cooler and greener."
 
 [![Homepage](https://img.shields.io/badge/-Homepage-3A7BE1?style=flat&logo=Google-Chrome&logoColor=white)](https://frshiyi.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=frshiyi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/frshiyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rong-fu-96502710b/)
 ---
 
 ## 🧠 Research Interests
